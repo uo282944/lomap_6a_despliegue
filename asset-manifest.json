@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://uo282944.github.io/lomap_6a_despliegue/static/css/main.7102c770.css",
-    "main.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.f452dc7a.js",
+    "main.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.07b0aa94.js",
     "static/js/670.7d17c12b.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/670.7d17c12b.chunk.js",
     "static/js/787.1342cae8.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/787.1342cae8.chunk.js",
     "static/js/180.d8b481f5.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/180.d8b481f5.chunk.js",
@@ -26,12 +26,12 @@
     "static/media/monumento.png": "https://uo282944.github.io/lomap_6a_despliegue/static/media/monumento.f505f99d0176c9d181ee.png",
     "index.html": "https://uo282944.github.io/lomap_6a_despliegue/index.html",
     "main.7102c770.css.map": "https://uo282944.github.io/lomap_6a_despliegue/static/css/main.7102c770.css.map",
-    "main.f452dc7a.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.f452dc7a.js.map",
+    "main.07b0aa94.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.07b0aa94.js.map",
     "787.1342cae8.chunk.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/787.1342cae8.chunk.js.map",
     "180.d8b481f5.chunk.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/180.d8b481f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7102c770.css",
-    "static/js/main.f452dc7a.js"
+    "static/js/main.07b0aa94.js"
   ]
 }
