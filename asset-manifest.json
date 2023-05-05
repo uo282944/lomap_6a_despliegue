@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "https://uo282944.github.io/lomap_6a_despliegue/static/css/main.c90a80c0.css",
-    "main.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.f2fcc94e.js",
-    "static/js/670.c6d4f233.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/670.c6d4f233.chunk.js",
-    "static/js/787.994511a4.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/787.994511a4.chunk.js",
-    "static/js/180.ca643dba.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/180.ca643dba.chunk.js",
+    "main.css": "https://uo282944.github.io/lomap_6a_despliegue/static/css/main.7102c770.css",
+    "main.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.bf7eedec.js",
+    "static/js/670.7d17c12b.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/670.7d17c12b.chunk.js",
+    "static/js/787.1342cae8.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/787.1342cae8.chunk.js",
+    "static/js/180.d8b481f5.chunk.js": "https://uo282944.github.io/lomap_6a_despliegue/static/js/180.d8b481f5.chunk.js",
     "static/media/fotohome1.png": "https://uo282944.github.io/lomap_6a_despliegue/static/media/fotohome1.52f653a135d80a4a2fa7.png",
     "static/media/fotohome12.png": "https://uo282944.github.io/lomap_6a_despliegue/static/media/fotohome12.ff9299bec2679a938e46.png",
     "static/media/fotohome5.png": "https://uo282944.github.io/lomap_6a_despliegue/static/media/fotohome5.14dba5e983ecb31b0715.png",
@@ -25,13 +25,13 @@
     "static/media/gasolinera.png": "https://uo282944.github.io/lomap_6a_despliegue/static/media/gasolinera.acfd27002488d24977b1.png",
     "static/media/monumento.png": "https://uo282944.github.io/lomap_6a_despliegue/static/media/monumento.f505f99d0176c9d181ee.png",
     "index.html": "https://uo282944.github.io/lomap_6a_despliegue/index.html",
-    "main.c90a80c0.css.map": "https://uo282944.github.io/lomap_6a_despliegue/static/css/main.c90a80c0.css.map",
-    "main.f2fcc94e.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.f2fcc94e.js.map",
-    "787.994511a4.chunk.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/787.994511a4.chunk.js.map",
-    "180.ca643dba.chunk.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/180.ca643dba.chunk.js.map"
+    "main.7102c770.css.map": "https://uo282944.github.io/lomap_6a_despliegue/static/css/main.7102c770.css.map",
+    "main.bf7eedec.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/main.bf7eedec.js.map",
+    "787.1342cae8.chunk.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/787.1342cae8.chunk.js.map",
+    "180.d8b481f5.chunk.js.map": "https://uo282944.github.io/lomap_6a_despliegue/static/js/180.d8b481f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c90a80c0.css",
-    "static/js/main.f2fcc94e.js"
+    "static/css/main.7102c770.css",
+    "static/js/main.bf7eedec.js"
   ]
 }
